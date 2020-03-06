@@ -5,9 +5,9 @@ import (
 	"runtime/debug"
 	"sync"
 
-	"github.com/moleculer-go/moleculer"
-	"github.com/moleculer-go/moleculer/service"
-	"github.com/moleculer-go/moleculer/strategy"
+	"github.com/nnqq/moleculer"
+	"github.com/nnqq/moleculer/service"
+	"github.com/nnqq/moleculer/strategy"
 	log "github.com/sirupsen/logrus"
 )
 

@@ -2,7 +2,7 @@ package test
 
 import (
 	bus "github.com/moleculer-go/goemitter"
-	"github.com/moleculer-go/moleculer"
+	"github.com/nnqq/moleculer"
 	log "github.com/sirupsen/logrus"
 )
 

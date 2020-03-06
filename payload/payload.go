@@ -10,7 +10,7 @@ import (
 
 	"go.mongodb.org/mongo-driver/bson"
 
-	"github.com/moleculer-go/moleculer"
+	"github.com/nnqq/moleculer"
 )
 
 // RawPayload is a payload implementation for raw types.

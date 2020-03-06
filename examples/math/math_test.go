@@ -1,11 +1,11 @@
 package math_test
 
 import (
-	"github.com/moleculer-go/moleculer/broker"
+	"github.com/nnqq/moleculer/broker"
 	test "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 
-	"github.com/moleculer-go/moleculer/examples/math"
+	"github.com/nnqq/moleculer/examples/math"
 )
 
 var _ = test.Describe("Math", func() {

@@ -8,16 +8,16 @@ import (
 	"sync"
 	"time"
 
-	"github.com/moleculer-go/moleculer/middleware"
+	"github.com/nnqq/moleculer/middleware"
 
-	"github.com/moleculer-go/moleculer/payload"
+	"github.com/nnqq/moleculer/payload"
 
-	"github.com/moleculer-go/moleculer"
-	"github.com/moleculer-go/moleculer/service"
-	"github.com/moleculer-go/moleculer/strategy"
+	"github.com/nnqq/moleculer"
+	"github.com/nnqq/moleculer/service"
+	"github.com/nnqq/moleculer/strategy"
 
-	"github.com/moleculer-go/moleculer/transit"
-	"github.com/moleculer-go/moleculer/transit/pubsub"
+	"github.com/nnqq/moleculer/transit"
+	"github.com/nnqq/moleculer/transit/pubsub"
 	log "github.com/sirupsen/logrus"
 )
 

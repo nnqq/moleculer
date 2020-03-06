@@ -3,11 +3,11 @@ package middleware
 import (
 	"fmt"
 
-	"github.com/moleculer-go/moleculer/context"
-	"github.com/moleculer-go/moleculer/service"
-	"github.com/moleculer-go/moleculer/test"
+	"github.com/nnqq/moleculer/context"
+	"github.com/nnqq/moleculer/service"
+	"github.com/nnqq/moleculer/test"
 
-	"github.com/moleculer-go/moleculer"
+	"github.com/nnqq/moleculer"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 

@@ -6,10 +6,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/moleculer-go/moleculer"
-	"github.com/moleculer-go/moleculer/serializer"
-	"github.com/moleculer-go/moleculer/transit"
 	"github.com/nats-io/go-nats"
+	"github.com/nnqq/moleculer"
+	"github.com/nnqq/moleculer/serializer"
+	"github.com/nnqq/moleculer/transit"
 	log "github.com/sirupsen/logrus"
 )
 

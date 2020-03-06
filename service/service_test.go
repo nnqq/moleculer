@@ -4,15 +4,15 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/moleculer-go/moleculer/test"
+	"github.com/nnqq/moleculer/test"
 
 	log "github.com/sirupsen/logrus"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 
-	"github.com/moleculer-go/moleculer"
-	"github.com/moleculer-go/moleculer/service"
+	"github.com/nnqq/moleculer"
+	"github.com/nnqq/moleculer/service"
 )
 
 var logger = log.WithField("Unit Test", true)

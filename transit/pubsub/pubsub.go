@@ -9,17 +9,17 @@ import (
 	"sync"
 	"time"
 
-	"github.com/moleculer-go/moleculer/version"
+	"github.com/nnqq/moleculer/version"
 
-	"github.com/moleculer-go/moleculer/payload"
+	"github.com/nnqq/moleculer/payload"
 
-	"github.com/moleculer-go/moleculer/context"
-	"github.com/moleculer-go/moleculer/transit"
-	"github.com/moleculer-go/moleculer/transit/memory"
-	"github.com/moleculer-go/moleculer/transit/nats"
+	"github.com/nnqq/moleculer/context"
+	"github.com/nnqq/moleculer/transit"
+	"github.com/nnqq/moleculer/transit/memory"
+	"github.com/nnqq/moleculer/transit/nats"
 
-	"github.com/moleculer-go/moleculer"
-	"github.com/moleculer-go/moleculer/serializer"
+	"github.com/nnqq/moleculer"
+	"github.com/nnqq/moleculer/serializer"
 	log "github.com/sirupsen/logrus"
 )
 

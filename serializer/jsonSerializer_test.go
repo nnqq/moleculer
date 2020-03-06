@@ -5,11 +5,11 @@ import (
 	"time"
 
 	"github.com/moleculer-go/cupaloy/v2"
-	"github.com/moleculer-go/moleculer"
+	"github.com/nnqq/moleculer"
 
-	"github.com/moleculer-go/moleculer/context"
-	"github.com/moleculer-go/moleculer/payload"
-	"github.com/moleculer-go/moleculer/serializer"
+	"github.com/nnqq/moleculer/context"
+	"github.com/nnqq/moleculer/payload"
+	"github.com/nnqq/moleculer/serializer"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 

@@ -10,7 +10,7 @@ Simple, fast, light and fun to develop with. Also easy, very easy to test ;)
 
 [![Gitter](https://badges.gitter.im/moleculer-go/community.svg)](https://gitter.im/moleculer-go/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![Drone.io Build Status](https://cloud.drone.io/api/badges/moleculer-go/moleculer/status.svg)](https://cloud.drone.io/moleculer-go/moleculer)
-[![Go Report Card](https://goreportcard.com/badge/github.com/moleculer-go/moleculer)](https://goreportcard.com/report/github.com/moleculer-go/moleculer)
+[![Go Report Card](https://goreportcard.com/badge/github.com/nnqq/moleculer)](https://goreportcard.com/report/github.com/nnqq/moleculer)
 [![Coverage -> Coveralls](https://coveralls.io/repos/github/moleculer-go/moleculer/badge.svg?branch=master)](https://coveralls.io/github/moleculer-go/moleculer?branch=master)
 [![Coverage -> Codecov](https://codecov.io/gh/moleculer-go/moleculer/branch/develop/graph/badge.svg)](https://codecov.io/gh/moleculer-go/moleculer)
 <a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fmoleculer-go%2Fmoleculer?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmoleculer-go%2Fmoleculer.svg?type=shield"/></a>
@@ -30,8 +30,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/moleculer-go/moleculer"
-	"github.com/moleculer-go/moleculer/broker"
+	"github.com/nnqq/moleculer"
+	"github.com/nnqq/moleculer/broker"
 )
 
 type MathService struct {
@@ -111,7 +111,7 @@ Development is `complete` - Documentation is `in-progress` and benchmark is also
 # Installation
 
 ```bash
-$ go get github.com/moleculer-go/moleculer
+$ go get github.com/nnqq/moleculer
 ```
 
 # Running examples

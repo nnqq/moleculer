@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/moleculer-go/moleculer/service"
+	"github.com/nnqq/moleculer/service"
 	log "github.com/sirupsen/logrus"
 )
 

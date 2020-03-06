@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/moleculer-go/moleculer"
-	"github.com/moleculer-go/moleculer/context"
-	"github.com/moleculer-go/moleculer/middleware"
+	"github.com/nnqq/moleculer"
+	"github.com/nnqq/moleculer/context"
+	"github.com/nnqq/moleculer/middleware"
 )
 
 func metricEnd(brokerContext moleculer.BrokerContext, result moleculer.Payload) {

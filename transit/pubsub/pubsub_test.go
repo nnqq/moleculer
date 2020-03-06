@@ -2,10 +2,10 @@ package pubsub
 
 import (
 	bus "github.com/moleculer-go/goemitter"
-	"github.com/moleculer-go/moleculer"
-	"github.com/moleculer-go/moleculer/serializer"
-	"github.com/moleculer-go/moleculer/test"
-	"github.com/moleculer-go/moleculer/transit"
+	"github.com/nnqq/moleculer"
+	"github.com/nnqq/moleculer/serializer"
+	"github.com/nnqq/moleculer/test"
+	"github.com/nnqq/moleculer/transit"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 	log "github.com/sirupsen/logrus"

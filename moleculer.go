@@ -6,7 +6,7 @@ import (
 	"time"
 
 	bus "github.com/moleculer-go/goemitter"
-	"github.com/moleculer-go/moleculer/util"
+	"github.com/nnqq/moleculer/util"
 	"go.mongodb.org/mongo-driver/bson"
 
 	log "github.com/sirupsen/logrus"

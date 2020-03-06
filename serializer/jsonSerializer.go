@@ -6,8 +6,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/moleculer-go/moleculer"
-	"github.com/moleculer-go/moleculer/payload"
+	"github.com/nnqq/moleculer"
+	"github.com/nnqq/moleculer/payload"
 	log "github.com/sirupsen/logrus"
 	"github.com/tidwall/gjson"
 	"github.com/tidwall/sjson"

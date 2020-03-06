@@ -3,7 +3,7 @@ package strategy_test
 import (
 	log "github.com/sirupsen/logrus"
 
-	"github.com/moleculer-go/moleculer/strategy"
+	"github.com/nnqq/moleculer/strategy"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )

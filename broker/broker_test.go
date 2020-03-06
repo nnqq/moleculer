@@ -4,11 +4,11 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/moleculer-go/moleculer/transit/memory"
+	"github.com/nnqq/moleculer/transit/memory"
 	log "github.com/sirupsen/logrus"
 
-	"github.com/moleculer-go/moleculer"
-	"github.com/moleculer-go/moleculer/broker"
+	"github.com/nnqq/moleculer"
+	"github.com/nnqq/moleculer/broker"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

@@ -2,9 +2,9 @@ package transit_test
 
 import (
 	. "github.com/moleculer-go/goemitter"
-	"github.com/moleculer-go/moleculer"
+	"github.com/nnqq/moleculer"
 
-	"github.com/moleculer-go/moleculer/registry"
+	"github.com/nnqq/moleculer/registry"
 	log "github.com/sirupsen/logrus"
 )
 

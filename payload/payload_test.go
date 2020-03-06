@@ -11,8 +11,8 @@ import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 
-	"github.com/moleculer-go/moleculer"
-	. "github.com/moleculer-go/moleculer/payload"
+	"github.com/nnqq/moleculer"
+	. "github.com/nnqq/moleculer/payload"
 )
 
 var snap = cupaloy.New(cupaloy.FailOnUpdate(os.Getenv("UPDATE_SNAPSHOTS") == "true"))

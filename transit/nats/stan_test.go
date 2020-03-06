@@ -3,16 +3,16 @@ package nats_test
 import (
 	"os"
 
-	"github.com/moleculer-go/moleculer/payload"
-	"github.com/moleculer-go/moleculer/util"
+	"github.com/nnqq/moleculer/payload"
+	"github.com/nnqq/moleculer/util"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 
-	"github.com/moleculer-go/moleculer"
-	"github.com/moleculer-go/moleculer/broker"
-	"github.com/moleculer-go/moleculer/context"
-	"github.com/moleculer-go/moleculer/serializer"
-	"github.com/moleculer-go/moleculer/transit/nats"
+	"github.com/nnqq/moleculer"
+	"github.com/nnqq/moleculer/broker"
+	"github.com/nnqq/moleculer/context"
+	"github.com/nnqq/moleculer/serializer"
+	"github.com/nnqq/moleculer/transit/nats"
 )
 
 var StanTestHost = os.Getenv("STAN_HOST")

@@ -3,10 +3,10 @@ package metrics
 import (
 	"errors"
 
-	"github.com/moleculer-go/moleculer"
-	"github.com/moleculer-go/moleculer/context"
-	"github.com/moleculer-go/moleculer/payload"
-	"github.com/moleculer-go/moleculer/test"
+	"github.com/nnqq/moleculer"
+	"github.com/nnqq/moleculer/context"
+	"github.com/nnqq/moleculer/payload"
+	"github.com/nnqq/moleculer/test"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 )

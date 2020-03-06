@@ -4,9 +4,9 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/moleculer-go/moleculer"
-	"github.com/moleculer-go/moleculer/payload"
-	"github.com/moleculer-go/moleculer/util"
+	"github.com/nnqq/moleculer"
+	"github.com/nnqq/moleculer/payload"
+	"github.com/nnqq/moleculer/util"
 
 	log "github.com/sirupsen/logrus"
 )

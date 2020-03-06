@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 
-	"github.com/moleculer-go/moleculer"
-	"github.com/moleculer-go/moleculer/broker"
-	"github.com/moleculer-go/moleculer/payload"
+	"github.com/nnqq/moleculer"
+	"github.com/nnqq/moleculer/broker"
+	"github.com/nnqq/moleculer/payload"
 )
 
 var mathService = moleculer.ServiceSchema{

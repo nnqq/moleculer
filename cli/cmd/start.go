@@ -6,8 +6,8 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/moleculer-go/moleculer"
-	"github.com/moleculer-go/moleculer/broker"
+	"github.com/nnqq/moleculer"
+	"github.com/nnqq/moleculer/broker"
 	"github.com/spf13/cobra"
 )
 

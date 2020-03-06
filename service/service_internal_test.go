@@ -7,8 +7,8 @@ import (
 	"reflect"
 
 	"github.com/moleculer-go/cupaloy/v2"
-	"github.com/moleculer-go/moleculer"
-	"github.com/moleculer-go/moleculer/payload"
+	"github.com/nnqq/moleculer"
+	"github.com/nnqq/moleculer/payload"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

@@ -4,10 +4,10 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/moleculer-go/moleculer"
-	"github.com/moleculer-go/moleculer/serializer"
-	"github.com/moleculer-go/moleculer/transit"
 	stan "github.com/nats-io/go-nats-streaming"
+	"github.com/nnqq/moleculer"
+	"github.com/nnqq/moleculer/serializer"
+	"github.com/nnqq/moleculer/transit"
 	log "github.com/sirupsen/logrus"
 )
 

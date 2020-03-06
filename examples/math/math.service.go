@@ -3,7 +3,7 @@ package math
 import (
 	"fmt"
 
-	"github.com/moleculer-go/moleculer"
+	"github.com/nnqq/moleculer"
 	log "github.com/sirupsen/logrus"
 )
 

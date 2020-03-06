@@ -3,11 +3,11 @@ package registry_test
 import (
 	"fmt"
 
-	"github.com/moleculer-go/moleculer/test"
+	"github.com/nnqq/moleculer/test"
 
-	"github.com/moleculer-go/moleculer"
-	"github.com/moleculer-go/moleculer/registry"
-	"github.com/moleculer-go/moleculer/service"
+	"github.com/nnqq/moleculer"
+	"github.com/nnqq/moleculer/registry"
+	"github.com/nnqq/moleculer/service"
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
 	log "github.com/sirupsen/logrus"

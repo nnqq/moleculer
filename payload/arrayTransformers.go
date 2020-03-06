@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/moleculer-go/moleculer"
+	"github.com/nnqq/moleculer"
 )
 
 type interfaceArrayFunc func(source *interface{}) []interface{}

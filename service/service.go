@@ -6,8 +6,8 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/moleculer-go/moleculer"
-	"github.com/moleculer-go/moleculer/payload"
+	"github.com/nnqq/moleculer"
+	"github.com/nnqq/moleculer/payload"
 	log "github.com/sirupsen/logrus"
 )
 

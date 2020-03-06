@@ -4,8 +4,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/moleculer-go/moleculer"
-	"github.com/moleculer-go/moleculer/service"
+	"github.com/nnqq/moleculer"
+	"github.com/nnqq/moleculer/service"
 )
 
 // createNodeService create the local node service -> $node.

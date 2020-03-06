@@ -1,7 +1,7 @@
 package transit
 
 import (
-	"github.com/moleculer-go/moleculer"
+	"github.com/nnqq/moleculer"
 )
 
 type TransportHandler func(moleculer.Payload)
