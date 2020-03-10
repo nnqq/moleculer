@@ -3,6 +3,7 @@ package context
 import (
 	"errors"
 	"fmt"
+	"strings"
 
 	"github.com/nnqq/moleculer"
 	"github.com/nnqq/moleculer/payload"
@@ -274,7 +275,7 @@ func (context *Context) Publish(services ...interface{}) {
 }
 
 func (context *Context) ActionName() string {
-	return context.actionName
+	return strings.Split(context.actionName, ".")[1]
 }
 
 func (context *Context) EventName() string {
